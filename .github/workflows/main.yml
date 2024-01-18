@@ -1,0 +1,5 @@
+            - name: KT Sh
+  # You may pin to the exact commit or the version.
+  # uses: kloudtek/kt-ghaction-sh@af3270a965a733e141ec87a07e6586d9329b950a
+  uses: kloudtek/kt-ghaction-sh@0.8.5
+          
